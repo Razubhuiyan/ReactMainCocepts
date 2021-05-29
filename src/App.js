@@ -1,5 +1,7 @@
+import Clock from './components/Clock';
+
 function App() {
-    return <div>React main concepts</div>;
+    return <Clock />;
 }
 
 export default App;
